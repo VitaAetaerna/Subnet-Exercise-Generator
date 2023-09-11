@@ -153,3 +153,5 @@ if __name__ == '__main__':
         print("Network {}: NID: {} BC: {}".format(listnetwork, printDotted(subnet.get("nid")), printDotted(subnet.get("bc"))))
     print("\nSubnets:")
     listSubnets(ip, prefix, newprefix)
+    input("\nPress enter to exit\n")
+    
