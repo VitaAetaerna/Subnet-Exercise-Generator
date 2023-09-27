@@ -1,6 +1,6 @@
 import math
 import random
-
+print("Made by VitaAeterna and NekoSilvertail https://github.com/VitaAetaerna/SubnetExerciseGenerator/")
 def intToDotted(ip):
     # input: ip
     # determins dotted decimal format for given ip as int
